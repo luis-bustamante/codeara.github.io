@@ -45,22 +45,38 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5{
     visibility: hidden;
 }
 
-/* Navbar */
-.page-navbar-wrapper{
+/* contact navbar */
+.contact-navbar-wrapper{
     position: relative;
     z-index: 99;
     width: 100%; 
 }
 
-.page-navbar-wrapper a{
+.contact-navbar-wrapper a{
     color: #000; 
 }
  
-.page-navbar-wrapper .page-navbar-top{
+.contact-navbar-wrapper .contact-navbar-top{
     background: #262533;
     font-size: 0.8rem; 
 }
 
-.page-navbar-wrapper .page-navbar-top a {
+.contact-navbar-wrapper .contact-navbar-top a {
     color: #ffffffee;
+}
+
+/* menu navbar */
+.menu-navbar {
+    margin-bottom: 0px;
+    z-index: 1999;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    border-bottom: rgba(255, 255, 255, 0.7); 
+}
+
+.menu-navbar .logo{
+    position: relative;
+    left: 0;
+    top: -5px;
 }
