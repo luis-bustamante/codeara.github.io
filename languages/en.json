@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luis Bustamante"
+		],
+		"last-updated": "2020-04-04",
+		"locale": "en"
+	},
+	"home": "Home",
+	"about-us": "About us",
+    "services": "Services",
+    "team": "Team",
+    "contact": "Contact",
+    "impressum": "Impressum",
+    "it-consulting": "IT Consulting",
+    "it-consulting-desc": "We advice your organization on how best to use the right information technologies to achieve your business objectives.",
+    "software-engineering": "Software Engineering", 
+    "software-engineering-desc": "We plan and structure the process from the conception of the desired software through to the implementation and production. We are experts on writing and maintaining source code.",
+    "enterprise-integration": "Enterprise Integration",
+    "enterprise-integration-desc": "We link the business applications within your organization together, simplifying and automating the business processes while minimizing changes to the existing data structures.",
+    "who-we-are": "Who We Are",
+    "who-we-are-desc": "Code Ara is a full service Software Engineering and Enterprise Application Integration firm supporting companies in the achievement of ambitious Information Technology projects."
+}

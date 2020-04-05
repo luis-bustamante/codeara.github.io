@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Luis Bustamante"
+		],
+		"last-updated": "2020-04-04",
+		"locale": "de"
+	},
+	"home": "Home",
+	"about-us": "Über uns",
+    "services": "Dienstleistungen",
+    "team": "Team",
+    "contact": "Kontakt",
+    "impressum": "Impressum",
+    "it-consulting": "IT-Beratung",
+    "it-consulting-desc": "Wir beraten Ihre Organisation, mit welchen Informationstechnologien Sie Ihre Unternehmensziele bestmöglich erreichen.",
+    "software-engineering": "Softwareentwicklung", 
+    "software-engineering-desc": "Wir planen und strukturieren den Prozess von der Konzeption der gewünschten Software bis zur Implementierung und Produktion. Wir sind Experten im Schreiben und Pflegen von Quellcode.",
+    "enterprise-integration": "Unternehmensintegration",
+    "enterprise-integration-desc": "Wir verbinden die Unternehmensanwendungen innerhalb Ihrer Organisation, vereinfachen und automatisieren die Unternehmensprozesse während wir Veränderungen in den vorhandenen Datenstrukturen minimieren.",
+    "who-we-are": "Wer Wir Sind",
+    "who-we-are-desc": "Code Ara bietet Rundum-Services in Softwareentwicklung und Enterprise Application Integration für Unternehmen, die ambitionierte Informationstechnologieprojekte umsetzen wollen."
+}
