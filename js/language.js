@@ -7,10 +7,10 @@ if(userLang.length >= 2){
     if(languages.has(lang)){
         window.location.replace(languages.get(lang))
     }else{
-        window.location.replace(languages.get('de'))    
+        window.location.replace(languages.get('en'))    
     }
 }else{
-    window.location.replace(languages.get('de'))
+    window.location.replace(languages.get('en'))
 }
 
 
